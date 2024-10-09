@@ -1,6 +1,6 @@
 import React from "react";
 import coordinator from "../../assets/aayushi.jpeg";
-import analyst from "../../assets//rahul.jpg";
+import analyst from "../../assets//rahul.jpeg";
 
 function StudentPresident() {
   return (
@@ -36,7 +36,7 @@ function StudentPresident() {
             Rahul Singh
           </p>
           <p className="text-base font-semibold text-[14px] sm:text-[16px] -mt-1">
-            Reseach Analyst
+            Research Assistant
           </p>
         </div>
       </div>
